@@ -13,7 +13,7 @@ description of your question or idea.*
 
 ## Related Resources
 
-- The OVAL Repository Website (coming soon)
+- [The OVAL Repository Website](https://oval.cisecurity.org)
 - [Repository Overview](../README.md)
 - [Repository Organization](../repository/README.md)
 - [Contributing OVAL](../CONTRIBUTING.md)
@@ -39,7 +39,7 @@ your local copy of the repo, these scripts will not work properly.
 ## Getting Help, Making Suggestions
 
 If you need help using these scripts, please post your questions to the 
-OVAL Repository Mailing List (link TBD).
+[OVAL Repository Mailing List](http://lists.cisecurity.org/mailman/listinfo/oval_repository_lists.cisecurity.org).
 
 If you encounter a bug or have ideas for improving these scripts, please 
 [create an issue](https://github.com/CISecurity/OVALRepo/issues/new) with a full
@@ -110,7 +110,7 @@ Schema and schematron validate one or more OVAL definitions files.
 ```Shell
 
 # See script usage and options
-$ python3 validatate_oval_definitions_files.py -h
+$ python3 validate_oval_definitions_files.py -h
 ```
 
 ### get\_related\_elements.py
@@ -130,7 +130,7 @@ Get OVAL elements that are related to one or more elements.
 
 ```Shell
 # See script usage and options
-$ python3 get_repository_stats.py -h
+$ python3 web_get_repository_stats.py -h
 ```
 
 

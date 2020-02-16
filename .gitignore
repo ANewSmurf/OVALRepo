@@ -3,5 +3,8 @@ scripts/__index__/*
 scripts/tmp/*
 scripts/*.pyc
 scripts/.idea
+scripts/venv
 .DS_Store
 .idea
+Pipfile
+Pipfile.lock
